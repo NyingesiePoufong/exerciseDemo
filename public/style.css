@@ -1,0 +1,16 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+.well{
+  width: 100%;
+  float: none;
+  text-align: center;
+}
+
+.col-sm-6{
+  width: 100%;
+}
