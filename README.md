@@ -23,5 +23,5 @@ Have fun ;)
 Credit
 Modified from Scotch.io's auth tutorial
 
-![](https://github.com/NyingesiePoufong/exerciseDemo/blob/master/Screen%20Shot%202019-11-24%20at%208.18.15%20PM.png)
+![](https://github.com/NyingesiePoufong/exerciseDemo/blob/master/Screen%20Shot%202019-11-24%20at%208.24.53%20PM.png)
 
