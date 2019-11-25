@@ -1,15 +1,26 @@
-## Installation
+# Exercise App
 
-1. Clone repo
-2. run `npm install`
+![](https://github.com/NyingesiePoufong/exerciseDemo/blob/master/Screen%20Shot%202019-11-24%20at%207.22.34%20PM.png)
 
-## Usage
+# Tech Used:
+HTML5
+CSS3
+Javascript
+Node.js
+Express
+Mongo DB
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
 
-## Credit
+# Installation
+Clone repo
+run npm install
 
+
+# Usage
+run node server.js
+Navigate to localhost:8080
+Have fun ;)
+Credit
 Modified from Scotch.io's auth tutorial
 
-<!--test-->
+![](https://github.com/NyingesiePoufong/exerciseDemo/blob/master/Screen%20Shot%202019-11-24%20at%208.18.15%20PM.png)
